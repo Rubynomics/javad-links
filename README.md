@@ -2,9 +2,6 @@
 
 Hey guys, I used [ProMotion gem](https://github.com/clearsightstudio/ProMotion) to get the Visited Links page to load an external view like we briefly talked about on Friday. 
 
-
-It looks like you guys found an example like [Beer Example from HipByte](https://github.com/HipByte/RubyMotionSamples/tree/master/ios/Beers) because your code looks pretty familiar in some parts. Which is great, steal as much as possible. 
-
 I'm not real sure what you guys ultimately want to do, but you might consider using the ProMotion gem instead of an array.  
 
 Check it out and let me know what you think. 
