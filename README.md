@@ -27,6 +27,15 @@ Changes:
 * Gemfile - added BW and ProMotion gems. 
 
 
+Screen Shots: 
+
+![Visited Sites](http://i.imgur.com/UEbogcn.jpg)
+
+![Yahoo](http://i.imgur.com/3nSLAYZ.jpg)
+
+![ESPN](http://i.imgur.com/RBL9N2g.jpg)
+
+
 
 -Ian
 
